@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: abdulmomin24/wanderlust-frontend:v2.10
+          image: abdulmomin24/wanderlust-frontend:v3.0
           ports:
             - containerPort: 5173
 ---
